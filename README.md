@@ -14,7 +14,6 @@ Time Series forecasting and modeling play a crucial role in data analysis, parti
 -
 * LSTM-based Model: Uses Long Short-Term Memory (LSTM) networks to predict stock price movements, leveraging its ability to model sequential data and retain past information.
 * Time Series Forecasting: Applies time series analysis techniques to predict stock price fluctuations over time.
-* Data Integration: Incorporates historical stock data and external factors such as news sentiment or trading volumes to enhance prediction accuracy.
 * Automated Trading Insights: Helps investors and traders make informed decisions based on predictive analytics.
 
 **Tools & Technologies**
