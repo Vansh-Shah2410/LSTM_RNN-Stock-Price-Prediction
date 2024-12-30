@@ -25,10 +25,4 @@ Time Series forecasting and modeling play a crucial role in data analysis, parti
 * NumPy: For numerical computations.
 * Matplotlib: For visualizing data and model predictions.
  
-**Usage**
--
-* Train the LSTM model: Run the train_model.py script to train the LSTM model on the historical stock price data.
-* Make predictions: Use the predict_stock_prices.py script to generate predictions of future stock price movements (up or down).
-* Visualize results: Leverage tools like Jupyter notebooks or Power BI for visualizing stock price trends, model predictions, and insights.
- 
 By using machine learning techniques, this project aims to enhance the forecasting of stock prices, providing valuable insights that can be used for automated trading systems and improving decision-making in stock market investments.
